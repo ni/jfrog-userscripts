@@ -1,0 +1,32 @@
+{
+    "version": "0.1",
+    "language": "en",
+    "ignoreRegExpList": [
+      "[\\.#][a-z_\\-]*"
+    ],
+    "ignoreWords": [
+      "barreto"
+    ],
+    "words": [
+        "beforeend",
+        "corrigan",
+        "niconfig",
+        "swal",
+        "tampermonkey",
+        "userscript",
+        "userscripts",
+        "violentmonkey",
+        "monospace"
+    ],
+    "dictionaries": [
+        "fonts",
+        "softwareTerms",
+        "typescript",
+        "filetypes",
+        "misc",
+        "html"
+    ],
+    "ignorePaths": [
+        "*.json"
+    ]
+}
