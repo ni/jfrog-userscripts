@@ -7,6 +7,8 @@
 // @homepageURL  https://github.com/ni/jfrog-userscripts
 // @supportURL   https://github.com/ni/jfrog-userscripts/blob/main/docs/SUPPORT.md
 // @run-at       document-start
+// @match       *://*.artifacts.ni.com/*
+// @match       *://*.jfrog.io/*
 // @require  http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js
 // @require  https://gist.githubusercontent.com/davidcorrigan714/b13add08a7215247be27b12cc4bac165/raw/bbfc1115244f9d9df687fe8ebe59718846b10f05/waitForKeyElements_mirror.js
 // ==/UserScript==
