@@ -31,7 +31,7 @@ jobs:
       env:
         CI: true
     - name: publish artifacts
-      uses: actions/upload-artifact@master
+      uses: actions/upload-artifact@main
       with:
         name: userscript
         path: src/

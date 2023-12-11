@@ -5,7 +5,7 @@ Primarily for use at NI. If you also use JFrog, it is possible that this script 
 ## Getting Started
 
 1. Install a userscripts extension — such as [Tampermonkey](https://tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/) — and refresh this page
-2. [Install this userscript](https://github.com/ni/jfrog-userscripts/raw/master/src/ni-jfrog.user.js)
+2. [Install this userscript](https://github.com/ni/jfrog-userscripts/raw/main/src/ni-jfrog.user.js)
 
 ## What does it do?
 
